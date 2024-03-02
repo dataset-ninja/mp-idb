@@ -94,7 +94,7 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = [
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
-    "parasites": ["ring stage", "trophozoite stage", "schizont stage", "gametocyte stage"]
+    "parasites stages": ["ring stage", "trophozoite stage", "schizont stage", "gametocyte stage"]
 }
 TAGS: Optional[List[str]] = None
 
