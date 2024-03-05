@@ -9,7 +9,8 @@ If you make use of the MP IDB data, please cite the following reference:
   year="2019", publisher="Springer International Publishing", 
   address="Cham", 
   pages="57--65", 
-  isbn="978-3-030-13835-6"}
+  isbn="978-3-030-13835-6"
+  }
 ```
 
 [Source](https://github.com/andrealoddo/MP-IDB-The-Malaria-Parasite-Image-Database-for-Image-Processing-and-Analysis#mp-idb-the-malaria-parasite-image-database-for-image-processing-and-analysis)
