@@ -1,6 +1,6 @@
 Dataset **MP IDB** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/2/r/l9/H48oTESu0OkfRfVxl4N6kNHjHewrWCDEwGYzZeR3ozuO4MrNgk5vGLAAlyNkKQGKLIOaB03Q7WNuroQKUcdjGMW3liAyFKtTf93AVC7n4WLZUmNuoh2ylz0WeGZ5.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
